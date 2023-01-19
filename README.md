@@ -5,8 +5,9 @@ The game starts off with a text-based world of a 10x10 square. There are Orcs an
  
 
 To run:
-```javac *.java to compile all files
-   java Simulator.java
+```
+javac *.java to compile all files
+java Simulator.java
    ```
    
 The game would prompt the user to enter a starting position. this is obtained from one of the .txt files. 
