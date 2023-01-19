@@ -10,6 +10,6 @@ javac *.java to compile all files
 java Simulator.java
    ```
    
-The game would prompt the user to enter a starting position. this is obtained from one of the .txt files. //
-<img width="120" alt="image" src="https://user-images.githubusercontent.com/79016649/213525220-2267f9ec-a646-4cc3-83fb-e289e3cdd1ac.png"> //
+The game would prompt the user to enter a starting position. this is obtained from one of the .txt files. \\
+<img width="120" alt="image" src="https://user-images.githubusercontent.com/79016649/213525220-2267f9ec-a646-4cc3-83fb-e289e3cdd1ac.png"> \\
 The image above is the starting positions in data.txt and the spaces in the file are open spaces.
