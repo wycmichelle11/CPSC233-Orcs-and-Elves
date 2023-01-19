@@ -16,7 +16,6 @@
     **********************************************************************************************************************
     
     Editor: Michelle Cheung
-    UCID: 30116197
     Class: CPSC 233 L01 T07
     Purpose: The characters or soldiers in the simulation.
     Features:   An entity can either be an orc or an elf

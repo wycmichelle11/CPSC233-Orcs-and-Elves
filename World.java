@@ -9,7 +9,6 @@ import java.util.Scanner;
     * Original program  
     **********************************************************************************************************************
     Editor: Michelle Cheung
-    UCID: 30116197
     Class: CPSC 233 L01 T07
     Purpose: Creates a world for the Entity object to move in based on attacks and moves.
     Features:   Contains a simulated world in the form of a 2D array of references to Entity objects

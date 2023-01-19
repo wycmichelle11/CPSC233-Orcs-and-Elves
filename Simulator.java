@@ -5,12 +5,11 @@
 	Starting execution point for the program.
 	**********************************************************************************************************************
 	Editor: Michelle Cheung
-    UCID: 30116197
-    Class: CPSC 233 L01 T07
-    Purpose: The starting execution point
-    Features:   Contains the main method to start Simulation
-    Limiations: Refers to the World class only
-    Version: March 12, 2021
+    	Class: CPSC 233 L01 T07
+    	Purpose: The starting execution point
+    	Features:   Contains the main method to start Simulation
+    	Limiations: Refers to the World class only
+    	Version: March 12, 2021
 */
 
 public class Simulator		

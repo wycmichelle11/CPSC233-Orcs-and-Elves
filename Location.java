@@ -3,7 +3,6 @@
     Version: February 11, 2021
     **********************************************************************************************************************
     User: Michelle Cheung
-    UCID: 30116197
     Class: CPSC 233 L01 T07
     Purpose: Stores the location of Entities in (Row/Column) form
     Features:   A wrapper class

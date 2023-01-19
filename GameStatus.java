@@ -7,7 +7,6 @@
 ********************************************************************************/
 /*
 	Editor: Michelle Cheung
-    UCID: 30116197
     Class: CPSC 233 L01 T07
     Purpose: Tracks the state of the simulation (in both debugging mode and out of debugging mode)
     Features:   Debug mode will stay on until otherwise told
